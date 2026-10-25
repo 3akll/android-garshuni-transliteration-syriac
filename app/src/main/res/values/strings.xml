@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Syriac Converter</string>
+
+    <!-- ============================================= -->
+    <!--         Strings for activity_main.xml         -->
+    <!-- ============================================= -->
+
+    <string name="input_hint">Type a message</string>
+    <string name="result">Result</string>
+
 </resources>
